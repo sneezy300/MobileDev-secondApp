@@ -84,10 +84,10 @@ const styles = StyleSheet.create({
         fontSize: 30,
         marginLeft: 200,
         position: "relative",
-        left: 10,
+        left: 15,
         bottom: 50,
-        color: "white",
-        borderRadius: 50,
+        color: "#07eaf2",
+
 
 
 
