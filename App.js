@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
         height: 200,
         borderRadius: 100,
         alignSelf: "center",
-        marginTop: 50
+        marginTop: 40
     },
 
 
@@ -82,13 +82,11 @@ const styles = StyleSheet.create({
         height: 30,
         width: 30,
         fontSize: 30,
-        marginLeft: 200,
+        marginLeft: 185,
         position: "relative",
         left: 15,
-        bottom: 50,
+        bottom: 49,
         color: "#07eaf2",
-
-
 
 
     },
@@ -129,7 +127,8 @@ const styles = StyleSheet.create({
     },
 
     buttonContainer: {
-        height: 50,
+        height: 45,
+        width: "90%",
         backgroundColor: "#07eaf2",
         justifyContent: "center",
         alignContent: "center",
@@ -154,17 +153,6 @@ const styles = StyleSheet.create({
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
 
 
 });
